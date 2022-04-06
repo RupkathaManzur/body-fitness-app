@@ -1,0 +1,324 @@
+{
+    "whole-body": [
+        {
+            "id" :1,
+            "name" : "EASY",
+            "images" : ["https://www.bodybuilding.com/exercises/exerciseImages/sequences/238/Male/m/238_1.jpg", "https://www.bodybuilding.com/exercises/exerciseImages/sequences/238/Male/m/238_2.jpg"],
+            "instructions": [
+                "5 Push-Ups (Start with your knees on the floor)",
+                "10 Bodyweight Squats",
+                "16 Plank Taps (Keep your knees on the floor)",
+                "20 Jumping Jacks",
+                "Rest for 45 seconds",
+                "Complete as many circuits as you can in 10 minutes"
+            ],
+            "muscles" : ["Biceps", "Deltoids", "Triceps","chest"],
+            "equipment" : "Barbell",
+            "filter":["indoor"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-15.gif"
+        },
+        {
+            "id" :2,
+            "name" : "Medium",
+            "images" : ["https://www.bodybuilding.com/exercises/exerciseImages/sequences/360/Male/m/360_1.jpg","https://www.bodybuilding.com/exercises/exerciseImages/sequences/360/Male/m/360_2.jpg"],
+            "instructions": [
+                "Burpees",
+                "Mountain Climbers",
+                "Renegade Row",
+                "Curl to Shoulder Press",
+                "Bodyweight Jump Squats",
+                "Bicycle Crunches",
+                "Laying Leg Raises , Spider Push-Up , Overhead Squat"
+
+            ],
+            "muscles" : ["Biceps", "Deltoids", "Triceps","chest"],
+            "equipment" : "Barbell",
+            "filter":["outdoor"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-1.gif"
+        },
+        {
+            "id" :3,
+            "name" : "Hard",
+            "images" : ["https://www.bodybuilding.com/exercises/exerciseImages/sequences/2101/Male/m/2101_1.jpg","https://www.bodybuilding.com/exercises/exerciseImages/sequences/2101/Male/m/2101_2.jpg"],
+            "instructions": [
+                "Start in high plank position with your wrists under your shoulders and abs tight.",
+                "Lower knees to floor.",
+                "Bend elbows and move torso toward floor. Go as low as you can",
+                "Do 5 reps",
+                "Stand tall with feet hip-width apart"
+            ],
+            "muscles" : ["Biceps", "Deltoids", "Triceps","chest"],
+            "equipment" : "Barbell",
+            "filter":["indoor","free-hand"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-1.gif"
+        }
+    ],
+    "hands": [
+        {
+            "id" :6,
+            "name" : "Easy",
+            "images" : [
+              "https://www.bodybuilding.com/exercises/exerciseImages/sequences/212/Male/l/212_1.jpg"
+            ],
+            "instructions": [
+                "All you need for this exercise is a standard pair of weights. If you don’t have dumbbells, you can use a bottle of water as a substitute",
+                "Stand with your feet shoulder-width apart",
+                "Hold the weight with both your hands and lift it above your head. Pay close attention to form. Your arms should be straight",
+                "Slowly, lower the weight behind your back",
+                "After holding for a couple of seconds, lift the weight above your head again"
+            ],
+            "muscles" : ["Biceps"],
+            "equipment" : "Dumbbell",
+            "filter":["indoor","gym"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-15.gif"
+        },
+        {
+            "id" :7,
+            "name" : "Medium",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/180/Male/l/180_1.jpg"
+            ],
+            "instructions": [
+                "Find a suitable chair or bench for this exercise. The height of the chair/bench matters a lot. It has to be at least 2 feet higher than the ground",
+                "Sit at the edge of the chair/bench and place your arms behind you or at the edge of the seat. Make sure that the distance between your arms is shoulder-width apart",
+                "With your back in an upright position, sit at the very edge of the seat, with your legs stretched out in front of you",
+                "Bend your elbows to a 90-degree angle and slowly lower your lower body off the seat and towards the ground",
+                "Hold this pose for a few seconds and remember to regulate your breathing. Take a few deep breaths. It will help you maintain the pose without exerting yourself",
+                "Straighten your arms again and push your body up again (do not siton the chair yet)",
+                "Do 3 sets of 20 reps daily for effective results in reducing arm fat"
+            ],
+            "muscles" : ["Biceps"],
+            "equipment" : "Barbell",
+            "filter":["indoor","gym"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-15.gif"
+        },
+        {
+            "id" :8,
+            "name" : "Hard",
+            "images" : ["https://www.bodybuilding.com/exercises/exerciseImages/sequences/223/Male/l/223_1.jpg"],
+            "instructions": [
+                "For this exercise, you will need a yoga mat and a dumbbell of whatever weight you are comfortable with. (Keep in mind, a very heavyweight will only lead to you straining so yourself, so, choose wisely)",
+                "Rest on your elbow, in the side plank position. In order to hold the position right, pay attention to your form, or you may injure yourself. For this exercise, your elbow should be below your shoulder and your feet should be one on top of the other. Grip the dumbbell in your other hand",
+                "Slowly raise your hips off the mat in such a way that there is a straight line formed from your shoulders to your ankle",
+                "Extend the arm in which you are holding the dumbbell above your shoulder",
+                "Next, lower your arm again and rest it in front of your body",
+                "Pay attention to your breathing in order to not strain yourself during this exercise. Breathe in as you lift your arm above your shoulder and breathe out as you bring it down again",
+                "Scissors",
+                "Push up",
+                "Repeat these movements at least ten times and then switch sides and follow the steps again"
+            ],
+            "muscles" : ["Biceps"],
+            "equipment" : " Dumbbell",
+            "filter":["indoor","gym"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-15.gif"
+        }
+
+    ],
+    "abdomen": [
+        {
+            "id" :11,
+            "name" : "Easy",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2021/Male/m/2021_3.jpg"
+            ],
+            "instructions": [
+                "Walking, especially at a quick pace",
+                "Running",
+                "Biking",
+                "Rowing",
+                "Swimming",
+                "Cycling"
+            ],
+            "muscles" : ["Abdominals"],
+            "equipment" : "Body Only",
+            "filter":["outdoor"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-13.gif"
+        },
+        {
+            "id" :12,
+            "name" : "Medium",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/908/Male/m/908_2.jpg"
+            ],
+            "instructions": [
+                "Leg Drops",
+                "Reverse Crunches",
+                "Knee Tuck Crunches",
+                "Russian Twists",
+                "Reach Through",
+                "Heel Touches",
+                "Single Leg Jacknife",
+                "Plank"
+            ],
+            "muscles" : ["Abdominals"],
+            "equipment" : "Body Only",
+            "filter":["free-hand"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-13.gif"
+        },
+        {
+            "id" :13,
+            "name" : "Hard",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2031/Male/m/2031_1.jpg"
+            ],
+            "instructions": [
+                "Lying Leg Raises",
+                "Leg IN And Out",
+                "Scissor Kicks",
+                "Crunches",
+                "Bicycle Crunches",
+                "Half Seated Reverse Crunch",
+                "Sit-Ups",
+                "Heel Touch",
+                "Jackknife Crunch",
+                "Russian Twist",
+                "Lying Alternate Toe Taps",
+                "Crossbody Mountain Climbers",
+                "Burpees",
+                "Plank",
+                "Side plank",
+                "Do each exercise for 5 mins or 5 times and then repeat"
+            ],
+            "muscles" : ["Abdominals"],
+            "equipment" : "Body Only",
+            "filter":["free-hand"],
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-13.gif"
+        }
+    ],
+    "legs and thigh": [
+        {
+            "id" :16,
+            "name" : "Easy",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3831/Male/m/3831_1.jpg"
+            ],
+            "instructions": [
+                "Side-lying leg raise",
+                "Tree lean to side lunge",
+                "One-legged hip thrusts"
+            ],
+            "muscles" : ["Hamstrings"],
+            "equipment" : "Barbell",
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-8.gif"
+        },
+        {
+            "id" :17,
+            "name" : "Medium",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/64/Male/m/64_2.jpg"
+            ],
+            "instructions": [
+                "Start with a shoulder-width apart stance",
+                "Next, get into a deadlift position",
+                "Hold the dumbbell by your sides with your palms facing outwards",
+                "Now, bend your knees and hips to lower your torso down",
+                "Make sure that your back is kept straight as you go down",
+                "Next, return to a standing position",
+                "Lower yourself down to squat",
+                "Hold for a moment before standing up and transitioning to a deadlift for another rep",
+                "Repeat 8-10 times"
+            ],
+            "muscles" : ["Quadriceps"],
+            "equipment" : "Barbell",
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-7.gif"
+        },
+        {
+            "id" :18,
+            "name" : "Hard",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2241/Male/m/2241_2.jpg",
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2241/Male/m/2241_1.jpg"
+            ],
+            "instructions": [
+                "Barbell Squats (High Bar)",
+                "Front Squats",
+                "Walking Lunge",
+                "Bulgarian Split Squats",
+                "Deadlift (Barbell)",
+                "Romanian Deadlift (Barbell)",
+                "Seated Leg Press",
+                "Hip Thrust",
+                "Goblet Squat",
+                "Glute Hamstring Curl"
+            ],
+            "muscles" : ["Quadriceps"],
+            "equipment" : "Barbell",
+            "muscle_diagram" : "https://artifacts.bbcomcdn.com/exercises-app/1.2.1/img/guide-7.gif"
+        }
+        
+    ],
+    "face": [
+        {
+            "id" :19,
+            "name" : "Easy",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3831/Male/m/3831_1.jpg"
+            ],
+            "instructions": [
+                "Tilt your head back until you're looking at the ceiling",
+                "Move your lower lip over your upper lip as far as you can; you should feel this in the jaw muscles near your ears",
+                "Hold for 10 seconds",
+                "Complete 10-15 sets"
+            ],
+            "muscles" : ["Face"],
+            "equipment" : "Hand",
+            "filter":["free-hand"],
+            "muscle_diagram" : "https://www.researchgate.net/profile/Lukas-Danner/publication/322355640/figure/fig3/AS:756443082919936@1557361493409/Anatomy-of-the-facial-muscles-Reprinted-under-Creative-Commons-Attribution-25-License.jpg"
+        },
+        {
+            "id" :20,
+            "name" : "Medium",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/64/Male/m/64_2.jpg"
+            ],
+            "instructions": [
+                "Chin lift",
+                "Facelift",
+                "Tongue rolling",
+                "Fish face",
+                "Lion face",
+                "Cheek puff",
+                "Do each exercise for 4 mins"
+            ],
+            "muscles" : ["Face"],
+            "equipment" : "Hand",
+            "filter":["free-hand"],
+            "muscle_diagram" : "https://www.researchgate.net/profile/Lukas-Danner/publication/322355640/figure/fig3/AS:756443082919936@1557361493409/Anatomy-of-the-facial-muscles-Reprinted-under-Creative-Commons-Attribution-25-License.jpg"
+        },
+        {
+            "id" :21,
+            "name" : "Hard",
+            "images" : [
+                "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2241/Male/m/2241_2.jpg"
+            ],
+            "instructions": [
+                "Put your index and middle fingers together in a closed peace sign",
+                "Rest your fingernails over your brows and gently push the skin down",
+                "Lift your brows up and down, while creating resistance with the weight of your fingernails",
+                "Repeat 10 times",
+                "Complete 6 sets",
+                "Place your fingers over each cheekbone",
+                "Gently lift the skin until taut",
+                "Open your mouth to form an elongated “O”; you should feel resistance in  your cheek muscles",
+                "Hold for 5 seconds",
+                "Complete 10-15 sets",
+                "Tilt your head all the way back and push your chin forward",
+                "Suck your cheeks in as much as possible",
+                "Hold for 5 seconds",
+                "Complete 10-15 sets",
+                "Tilt your head back until you're looking at the ceiling",
+                "Move your lower lip over your upper lip as far as you can; you should feel this in the jaw muscles near your ears",
+                "Hold for 10 seconds",
+                "Complete 10-15 sets",
+                "Close your mouth and puff up your cheeks",
+                "Move the air from one cheek to the other",
+                "Repeat for 30 seconds"
+            ],
+            "muscles" : ["Face"],
+            "equipment" : "Hand",
+            "filter":["free-hand"],
+            "muscle_diagram" : "https://www.researchgate.net/profile/Lukas-Danner/publication/322355640/figure/fig3/AS:756443082919936@1557361493409/Anatomy-of-the-facial-muscles-Reprinted-under-Creative-Commons-Attribution-25-License.jpg"
+        }
+        
+    ]
+}
