@@ -5,7 +5,7 @@
  
 ![logo](https://user-images.githubusercontent.com/56570461/162858154-42302102-8499-4e33-8fcb-ae3bf5b72d4e.PNG)
  
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
  
 [![Build Status](https://github.com/RupkathaManzur/body-fitness-app.git)](https://github.com/RupkathaManzur/body-fitness-app.git)
 
@@ -78,7 +78,6 @@ This app has been tested on android devices. To run this app you will be needing
 
 ## LIST OF FILES!
 |File Name       | Contents          |
-
 |----------------|-------------------|
 |**.expo-shared**|This file was automatically created while transferring files from expo to computer|
 |**android**  | Automatically created while working in Expo CLI. |
@@ -133,12 +132,35 @@ This app has been tested on android devices. To run this app you will be needing
 └───redux
  
 ```
+ ## Bug list
+ - Choosing more than filter in the app may stop showing all the exercises that are available.
+ - Some error show up out of nowhere. The root of the problem is still not found.
+ - Images duplicate and appear twice. 
+
+## Troubleshooting tips
+- If any error message appear you have to restart the app.
+- After filtering if the exercises you filtered out still come up, just refresh the page.
+
 
  ## Copyright information
+ Copyright © 2022, [Rupkatha Manzur](https://github.com/RupkathaManzur).
+ Released under the [Open Software License 3.0](LICENSE).
+
  ## Contact information
- ## Bug list
- ## Troubleshooting tips
+ 
+ ## ROAD MAP
+ This app has the potential to be developed further. More functions can be added in the app and the exercises can be adjusted more. If I have time, I want to make this fitness app more useful. Such as giving cliets customized workout after taking their data. The data will be hidden and cannot be seen by anyone without the user. If I can modify the app upto my hope, I will surely launch it in the play store.
+ 
+ 
+ ## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+ 
 
 
 ## Acknowledgements
+LOGO DESIGN - https://www.logopik.com/item/exercise-logo-vector/ 
+
 
