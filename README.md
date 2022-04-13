@@ -13,7 +13,19 @@
  
 
 ## TABLE OF CONTENTS
-1. 
+1. CONFIGURATION
+2. INSTALLATION
+3. OPERATING INSTRUCTIONS
+4. LIST OF FILES
+5. Bug list
+6. Troubleshooting tips
+7. Copyright information
+8. Contact information
+9. ROAD MAP
+10. Contributing
+11. Acknowledgements
+12. Project Status
+ 
  
  
  
@@ -50,26 +62,37 @@ This app has been tested on android devices. To run this app you will be needing
  
 ## OPERATING INSTRUCTIONS
 - When you will download the app and open it, it will automatically take you to the homescreen. 
-<img src="https://user-images.githubusercontent.com/56570461/162876800-fb56ba23-a8d4-4994-9701-29043f6b6d55.jpg" width="250" >
+<img src="https://user-images.githubusercontent.com/56570461/162876800-fb56ba23-a8d4-4994-9701-29043f6b6d55.jpg" width="250" > 
+
 
 - In the middle of the homescreen you will see there are exercises available for five body parts- whole body, hands, abdomen, legs and thigh and face. Tapping on any of the box will take you to a second page.
 <img src="https://user-images.githubusercontent.com/56570461/162924297-32149c93-e867-4315-94bc-7f7ff51075ca.jpg" width="250" >
+
 
 - Suppose you chose whole body. Whole body will have **3** different mode of exercise. They are easy, medium and hard. The time taken to complete each of the exercise differs by which the three modes are divided. Like this all the other body parts have 3 different modes. Accoring to your mood you can chose if you want to do more or less.
 <img src="https://user-images.githubusercontent.com/56570461/162926070-7fa6b447-cf21-4953-8b85-5d861c8dd71e.jpg" width="250" >
 
 
+
 - Suppose you chose medium, then the page with exercises of the whole body with medium intensity will come. You can also press next and change the pictures. It will contain the posture you need to do in each exercise.
 <img src="https://user-images.githubusercontent.com/56570461/162927242-e1da4ec3-4cbf-4897-a8ff-f2b9c56a7203.jpg" width="250" >
+
+
 
 - In the bottom of the homecreen there are three icons. The first one is for changing the page to homescreen, middle one to go to favourites page and last one is for filtering. If we go to the favouites page we will see there is no exercise at first.
 <img src="https://user-images.githubusercontent.com/56570461/162929878-42e093ef-86c6-424f-86fd-168e67e87fc9.jpg" width="250" >
 
+
+
 - Then if you add a exercise by pressing on the plus sign **+** above them then they will appear in your favourite list.
 <img src="https://user-images.githubusercontent.com/56570461/162930254-258d1b0e-6b6f-4ae4-8213-d95f304cc7c7.jpg" width="250" >
 
+
+
 - The filter page also have five options for you. If you have any problem you can cross out some exercises for yourself. They will not appear in your search list.
 <img src="https://user-images.githubusercontent.com/56570461/162930635-f9ea2177-91b9-470c-b929-49c9238f2b93.jpg" width="250" >
+
+
 
 - For example if you do not want to do any free hand exercise today and chose to filter out then you will be shown no face exercise in face section. Because all of them are free hand.
 <img src="https://user-images.githubusercontent.com/56570461/162931295-48e49fcb-1f48-4367-8af9-a3e4d0eaf399.jpg" width="250" >
@@ -164,8 +187,10 @@ Please make sure to update tests as appropriate.
  
 
 ## Acknowledgements
-LOGO DESIGN - https://www.logopik.com/item/exercise-logo-vector/ 
-Exercise pictures in the app - https://www.gettyimages.ca/photos/gym
+- LOGO DESIGN - https://www.logopik.com/item/exercise-logo-vector/ 
+- Exercise pictures in the app - https://www.gettyimages.ca/photos/gym
+- "React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web." YouTube, uploaded by freeCodeCamp.org, 13 Mar 2019, https://www.youtube.com/watch?v=_CBYbEGvxYY . (helped me to understand hwoa exercise app should function)
+- " REACT NATIVE FOOD APP UI ", Youtube, uploaded by kymzTech, 29 Dec 2020, https://www.youtube.com/watch?v=mSMvVWTu1iM . (helped to to get an idea of page to page transitions) 
 
 ## Project Status
 Done for now. It can developed further if time permits.
