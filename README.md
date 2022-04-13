@@ -13,20 +13,20 @@
  
 
 ## TABLE OF CONTENTS
-1. CONFIGURATION
-2. INSTALLATION
-3. OPERATING INSTRUCTIONS
-4. LIST OF FILES
-5. Bug list
-6. Troubleshooting tips
-7. Copyright information
-8. Contact information
-9. ROAD MAP
-10. Contributing
-11. Acknowledgements
-12. [PROJECT STATUS](https://github.com/RupkathaManzur/body-fitness-app/main/README.md#project-status)
-13. [PROJECT STATUS](https://github.com/RupkathaManzur/body-fitness-app/edit/main/README.md#project-status)
-14. [GitHub Pages](https://pages.github.com/)
+1. [CONFIGURATION](#configuration)
+2. [INSTALLATION](#installation)
+3. [OPERATING INSTRUCTIONS](#operating-instructions)
+4. [LIST OF FILES](#list-of-files)
+5. [BUG LIST](#bug-list)
+6. [TROUBLESHOOTING TIPS](#troubleshooting-tips)
+7. [COPYRIGHT INFORMATION](#copyright-information)
+8. [CONTACT INFORMATION](#contact-information)
+9. [ROAD MAP](#roadmap)
+10. [CONTRIBUTING](#contributing)
+11. [ACKNOWLEDGEMENTS](#acknowledgements)
+12. [PROJECT STATUS](#project-status)
+
+
  
  
  
@@ -159,21 +159,21 @@ This app has been tested on android devices. To run this app you will be needing
 └───redux
  
 ```
- ## Bug list
+ ## BUG LIST
  - Choosing more than filter in the app may stop showing all the exercises that are available.
  - Some error show up out of nowhere. The root of the problem is still not found.
  - Images duplicate and appear twice. 
 
-## Troubleshooting tips
+## TROUBLESHOOTING TIPS
 - If any error message appear you have to restart the app.
 - After filtering if the exercises you filtered out still come up, just refresh the page.
 
 
- ## Copyright information
+ ## COPYRIGHT INFORMATION
  Copyright © 2022, [Rupkatha Manzur](https://github.com/RupkathaManzur).
  Released under the [Open Software License 3.0](LICENSE).
 
- ## Contact information
+ ## CONTACT INFORMATION
  **EMAIL - rupkathamanzur@yahoo.com**
  
  
@@ -181,14 +181,14 @@ This app has been tested on android devices. To run this app you will be needing
  This app has the potential to be developed further. More functions can be added in the app and the exercises can be adjusted more. If I have time, I want to make this fitness app more useful. Such as giving cliets customized workout after taking their data. The data will be hidden and cannot be seen by anyone without the user. If I can modify the app upto my hope, I will surely launch it in the play store.
  
  
- ## Contributing
+ ## CONTRIBUTING
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
  
 
-## Acknowledgements
+## ACKNOWLEDGEMENTS
 - LOGO DESIGN - https://www.logopik.com/item/exercise-logo-vector/ 
 - Exercise pictures in the app - https://www.gettyimages.ca/photos/gym
 - "React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web." YouTube, uploaded by freeCodeCamp.org, 13 Mar 2019, https://www.youtube.com/watch?v=_CBYbEGvxYY . (helped me to understand hwoa exercise app should function)
