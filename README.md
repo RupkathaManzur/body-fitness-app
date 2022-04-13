@@ -24,7 +24,7 @@
 9. ROAD MAP
 10. Contributing
 11. Acknowledgements
-12. [PROJECT STATUS](https://github.com/RupkathaManzur/body-fitness-app.git/)
+12. [PROJECT STATUS](https://github.com/RupkathaManzur/body-fitness-app/main/README.md#project-status)
 13. [PROJECT STATUS](https://github.com/RupkathaManzur/body-fitness-app/edit/main/README.md#project-status)
 14. [GitHub Pages](https://pages.github.com/)
  
