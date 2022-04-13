@@ -6,31 +6,32 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/RupkathaManzur/body-fitness-app)
 
  
-# STAY FIT
-## AN app made by using react native which helps you to chose your workouts according to your mood.
+# STAY FIT   :muscle:  :weight_lifting:
+## AN app made by using react native which helps you to chose your workouts according to your mood. :iphone:
  
 ![logo](https://user-images.githubusercontent.com/56570461/162858154-42302102-8499-4e33-8fcb-ae3bf5b72d4e.PNG)
  
 
-## TABLE OF CONTENTS
-1. [CONFIGURATION](#configuration)
-2. [INSTALLATION](#installation)
-3. [OPERATING INSTRUCTIONS](#operating-instructions)
-4. [LIST OF FILES](#list-of-files)
-5. [BUG LIST](#bug-list)
-6. [TROUBLESHOOTING TIPS](#troubleshooting-tips)
-7. [COPYRIGHT INFORMATION](#copyright-information)
-8. [CONTACT INFORMATION](#contact-information)
-9. [ROAD MAP](#roadmap)
-10. [CONTRIBUTING](#contributing)
-11. [ACKNOWLEDGEMENTS](#acknowledgements)
-12. [PROJECT STATUS](#project-status)
+## TABLE OF CONTENTS :scroll:
+1. [PROJECT DESCRIPTION](#project-description)
+2. [CONFIGURATION](#configuration)
+3. [INSTALLATION](#installation)
+4. [OPERATING INSTRUCTIONS](#operating-instructions)
+5. [LIST OF FILES](#list-of-files)
+6. [BUG LIST](#bug-list)
+7. [TROUBLESHOOTING TIPS](#troubleshooting-tips)
+8. [COPYRIGHT INFORMATION](#copyright-information)
+9. [CONTACT INFORMATION](#contact-information)
+10. [ROAD MAP](#road-map)
+11. [CONTRIBUTING](#contributing)
+12. [ACKNOWLEDGEMENTS](#acknowledgements)
+13. [PROJECT STATUS](#project-status)
 
 
- 
- 
- 
- 
+## PROJECT DESCRIPTION
+>I decided to make an app that has exercises for different parts of the body. Exercise plays a very vital role in keeping us healthy. An app that can guide you to do exercise depending on your needs is very useful in my eyes. The main theme of the app that I made have mainly five sections. Five sections are dedicated to five different parts of the body. Each section is going to have three different modes of exercise. Generally, everyone is not capable of carrying out all types of exercise. Some can continue for a long period of time while others cannot. Keeping this limitation in view I have decided to introduce different modes of exercise. A person can choose the mode which he/she prefers. The app will also have an option for filtering out certain exercises that a person does not prefer to do. For example, if someone has back pain, he can avoid exercises that put pressure on the back like crunches. And lastly, he can save any exercise as favourites. In this way, he/she does not need to look for her favourite workout every time.
+
+
 
  
 ## CONFIGURATION
@@ -43,6 +44,9 @@ This app has been tested on android devices. To run this app you will be needing
 2. Go to the QR scanner option and scan the QR code given below
 
 ![QRCODE](https://user-images.githubusercontent.com/56570461/162927677-0677bd94-c97a-41f8-be51-af316bf4f119.PNG)
+
+3. The app will automatically get downloaded in your phone.
+**NOW YOU CAN USE IT!!**
 
  
  
@@ -160,6 +164,7 @@ This app has been tested on android devices. To run this app you will be needing
  
 ```
  ## BUG LIST
+ :bug:
  - Choosing more than filter in the app may stop showing all the exercises that are available.
  - Some error show up out of nowhere. The root of the problem is still not found.
  - Images duplicate and appear twice. 
@@ -174,28 +179,29 @@ This app has been tested on android devices. To run this app you will be needing
  Released under the [Open Software License 3.0](LICENSE).
 
  ## CONTACT INFORMATION
- **EMAIL - rupkathamanzur@yahoo.com**
+ **EMAIL - rupkathamanzur@yahoo.com** :e-mail:
  
  
  ## ROAD MAP
- This app has the potential to be developed further. More functions can be added in the app and the exercises can be adjusted more. If I have time, I want to make this fitness app more useful. Such as giving cliets customized workout after taking their data. The data will be hidden and cannot be seen by anyone without the user. If I can modify the app upto my hope, I will surely launch it in the play store.
+ This app has the potential to be developed further. More functions can be added in the app and the exercises can be adjusted more. If I have time, I want to make this fitness app more useful. Such as giving cliets customized workout after taking their data. The data will be hidden and cannot be seen by anyone without the user. If I can modify the app upto my hope, I will surely launch it in the play store. :woman_technologist:
  
  
- ## CONTRIBUTING
+ ## CONTRIBUTING 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Please make sure to update tests as appropriate. :crayon:
 
  
 
 ## ACKNOWLEDGEMENTS
 - LOGO DESIGN - https://www.logopik.com/item/exercise-logo-vector/ 
 - Exercise pictures in the app - https://www.gettyimages.ca/photos/gym
-- "React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web." YouTube, uploaded by freeCodeCamp.org, 13 Mar 2019, https://www.youtube.com/watch?v=_CBYbEGvxYY . (helped me to understand hwoa exercise app should function)
+- "React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web." YouTube, uploaded by freeCodeCamp.org, 13 Mar 2019, https://www.youtube.com/watch?v=_CBYbEGvxYY . (helped me to understand how exercise app should function)
 - " REACT NATIVE FOOD APP UI ", Youtube, uploaded by kymzTech, 29 Dec 2020, https://www.youtube.com/watch?v=mSMvVWTu1iM . (helped to to get an idea of page to page transitions) 
 
 ## PROJECT STATUS
-Done for now. It can developed further if time permits.
+- Done for now. :heavy_check_mark:
+- It can developed further if time permits. :basecamp:
 
 
 
