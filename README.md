@@ -24,7 +24,9 @@
 9. ROAD MAP
 10. Contributing
 11. Acknowledgements
-12. Project Status
+12. [PROJECT STATUS](https://github.com/RupkathaManzur/body-fitness-app.git/)
+13. [PROJECT STATUS](https://github.com/RupkathaManzur/body-fitness-app/edit/main/README.md#project-status)
+14. [GitHub Pages](https://pages.github.com/)
  
  
  
@@ -192,7 +194,7 @@ Please make sure to update tests as appropriate.
 - "React Native Web Full App Tutorial - Build a Workout App for iOS, Android, and Web." YouTube, uploaded by freeCodeCamp.org, 13 Mar 2019, https://www.youtube.com/watch?v=_CBYbEGvxYY . (helped me to understand hwoa exercise app should function)
 - " REACT NATIVE FOOD APP UI ", Youtube, uploaded by kymzTech, 29 Dec 2020, https://www.youtube.com/watch?v=mSMvVWTu1iM . (helped to to get an idea of page to page transitions) 
 
-## Project Status
+## PROJECT STATUS
 Done for now. It can developed further if time permits.
 
 
