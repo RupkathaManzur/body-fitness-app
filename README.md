@@ -7,7 +7,7 @@
 
  
 # STAY FIT   :muscle:  :weight_lifting:
-## AN app made by using react native which helps you to chose your workouts according to your mood. :iphone:
+## An app made by using react native which helps you to chose your workouts according to your mood. :iphone:
  
 ![logo](https://user-images.githubusercontent.com/56570461/162858154-42302102-8499-4e33-8fcb-ae3bf5b72d4e.PNG)
  
@@ -39,7 +39,7 @@ This app has been tested on android devices. To run this app you will be needing
  
  
 ## INSTALLATION
-- If you want to download the app follow the instructions below.
+- If you want to download the app follow the instructions below. :hammer:
 1. Download the "EXPO GO" app in your mobile. You can find it in playstore.
 2. Go to the QR scanner option and scan the QR code given below
 
@@ -169,7 +169,8 @@ This app has been tested on android devices. To run this app you will be needing
  - Some error show up out of nowhere. The root of the problem is still not found.
  - Images duplicate and appear twice. 
 
-## TROUBLESHOOTING TIPS
+## TROUBLESHOOTING TIPS 
+:speech_balloon:
 - If any error message appear you have to restart the app.
 - After filtering if the exercises you filtered out still come up, just refresh the page.
 
