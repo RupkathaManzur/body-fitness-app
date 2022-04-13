@@ -1,4 +1,10 @@
 # BODY-FITNESS APP
+
+![GitHub followers](https://img.shields.io/github/followers/RupkathaManzur?logo=github&style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/RupkathaManzur/body-fitness-app?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/RupkathaManzur/body-fitness-app)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/RupkathaManzur/body-fitness-app)
+
  
 # STAY FIT
 ## AN app made by using react native which helps you to chose your workouts according to your mood.
@@ -6,16 +12,12 @@
 ![logo](https://user-images.githubusercontent.com/56570461/162858154-42302102-8499-4e33-8fcb-ae3bf5b72d4e.PNG)
  
 
- 
-[![Build Status](https://github.com/RupkathaManzur/body-fitness-app.git)](https://github.com/RupkathaManzur/body-fitness-app.git)
-
 ## TABLE OF CONTENTS
+1. 
  
  
  
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+
  
 ## CONFIGURATION
 This app has been tested on android devices. To run this app you will be needing a android 8.0 oreo or higher. Below this the app have not been tested.
@@ -147,6 +149,8 @@ This app has been tested on android devices. To run this app you will be needing
  Released under the [Open Software License 3.0](LICENSE).
 
  ## Contact information
+ **EMAIL - rupkathamanzur@yahoo.com**
+ 
  
  ## ROAD MAP
  This app has the potential to be developed further. More functions can be added in the app and the exercises can be adjusted more. If I have time, I want to make this fitness app more useful. Such as giving cliets customized workout after taking their data. The data will be hidden and cannot be seen by anyone without the user. If I can modify the app upto my hope, I will surely launch it in the play store.
@@ -159,8 +163,12 @@ Please make sure to update tests as appropriate.
 
  
 
-
 ## Acknowledgements
 LOGO DESIGN - https://www.logopik.com/item/exercise-logo-vector/ 
+Exercise pictures in the app - https://www.gettyimages.ca/photos/gym
+
+## Project Status
+Done for now. It can developed further if time permits.
+
 
 
