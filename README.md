@@ -1,4 +1,4 @@
-# BODY-FITNESS APP
+# BODY-FITNESS-APP
 
 ![GitHub followers](https://img.shields.io/github/followers/RupkathaManzur?logo=github&style=social)
 ![GitHub language count](https://img.shields.io/github/languages/count/RupkathaManzur/body-fitness-app?logo=github)
