@@ -10,7 +10,7 @@ import {connect} from "react-redux";
 
 const { addExercise, removeExercise } = actions;
 
-
+//structure of the second page that is the mode page
 class ExerciseItem extends React.Component {
     addExercise = () => {
         const {exercise} = this.props;

@@ -5,6 +5,8 @@ import {Actions} from 'react-native-router-flux'
 
 import styles from "./styles"
 
+//structure for the last page that is thepage which contains the exercise instructions list
+
 const MuscleItem = ({muscle, image}) => {
     return (
         <TouchableOpacity style={[styles.col, styles.col_half, styles.container]}

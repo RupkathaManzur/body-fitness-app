@@ -2,6 +2,8 @@ import { StyleSheet } from 'react-native';
 import { theme } from "../../index"
 export const {padding, color, fontSize, fontFamily } = theme;
 
+//stylesheet for the mode  page
+
 const styles = StyleSheet.create({
     container:{
         flex: 1

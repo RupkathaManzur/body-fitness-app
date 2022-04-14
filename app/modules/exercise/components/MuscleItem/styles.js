@@ -3,6 +3,7 @@ import {theme} from "../../index"
 
 export const {padding, color, fontSize, fontFamily} = theme;
 
+// stylesheet for the instructions list page
 const styles = StyleSheet.create({
     container: {
         alignItems: "center",
