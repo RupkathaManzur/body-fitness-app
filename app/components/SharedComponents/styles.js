@@ -1,7 +1,7 @@
 import {theme} from "../../modules/exercise/index"
 
 export const {color, fontFamily, fontSize, padding, windowHeight, navbarHeight} = theme;
-
+//stylesheet for the homescreen
 const styles = {
     container:{
         alignItems: 'center',

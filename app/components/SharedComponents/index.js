@@ -3,17 +3,17 @@ import {View, ActivityIndicator, Text} from 'react-native';
 import {Button} from 'react-native-elements'
 
 import styles from './styles'
-
+//controls the action of the buttons
 const Loading = (props) => {
     return (
         <View style={styles.container}>
-            <ActivityIndicator animating={true} color={"grey"}/>
+            <ActivityIndicator animating={true} color={"grey"}/> 
             {props.message.length > 0 && <Text style={styles.message}>{props.message}</Text>}
         </View>
     )
 };
 
-
+//the buttons changes the action when pressed and the view style
 Loading.defaultProps = {
     message: ""
 }

@@ -4,13 +4,15 @@ import {Icon} from 'react-native-elements';
 import {fontFamily, fontSize, color} from "../config/theme"
 import {connect} from "react-redux";
 
+//makes the design for the homescreen icons
+
 class TabIcon extends React.Component {
     render() {
-        let {iconInfo, focused, exercises} = this.props;
-        let {type, name, title, size, color, selected, style, iconSize, showBadge} = iconInfo;
+        let {iconInfo, focused, exercises} = this.props; //work of the icon
+        let {type, name, title, size, color, selected, style, iconSize, showBadge} = iconInfo;  //shape of the icon
 
-        return (
-            <View style={[styles.container, style]}>
+        return ( //viewsheet of the icon
+            <View style={[styles.container, style]}>  
                 <View style={[styles.wrapper, {width: size, height: size}]}>
                     <Icon name={name}
                           type={type}
@@ -39,15 +41,15 @@ TabIcon.defaultProps = {
     showBadge: false
 }
 
-function mapStateToProps(state, props) {
+function mapStateToProps(state, props) {  //checks the state
     return {
         exercises: state.exerciseReducer.exercises
     }
 }
 
-export default connect(mapStateToProps, {})(TabIcon);
+export default connect(mapStateToProps, {})(TabIcon); //directs to the property tab icon
 
-const styles = StyleSheet.create({
+const styles = StyleSheet.create({  //stylesheet for the homescreen icons
     container: {
         justifyContent: "center",
         alignItems: "center"
