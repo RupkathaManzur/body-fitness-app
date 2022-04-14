@@ -6,6 +6,8 @@ import Swiper from "react-native-web-swiper";
 
 import styles, {padding} from "./styles"
 
+//this page is for setting the view of the exercise instruction page
+
 class Exercise extends React.Component {
 
     componentDidMount() {

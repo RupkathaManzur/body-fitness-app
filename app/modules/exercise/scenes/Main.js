@@ -12,6 +12,9 @@ import MuscleItem from "../components/MuscleItem"
 
 import styles from "./styles"
 
+//Homescreen
+//middle section of the homescreen 
+
 class Main extends React.Component {
 
     render() {
@@ -23,8 +26,7 @@ class Main extends React.Component {
                         <Text style={[styles.instructions]}>Choose a category below to see a list of exercises available.</Text>
                     </View>
                 </View>
-
-                <View style={[styles.musclesContainer]}>
+                <View style={[styles.musclesContainer]}> 
                     <View style={[styles.row, {flexDirection: "row"}]}>
                         <MuscleItem muscle={"Whole-Body"} image={require('../../../assets/images/noun_chest_788750.png')}/>
                         <MuscleItem muscle={"Hands"} image={require('../../../assets/images/noun_Bicep_61523_000000.png')}/>
@@ -41,5 +43,6 @@ class Main extends React.Component {
         );
     }
 }
+//three row in the homescreen 
 
 export default connect(null, {getWorkouts})(Main);

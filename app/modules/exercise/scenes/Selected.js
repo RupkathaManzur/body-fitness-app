@@ -7,6 +7,8 @@ import {Loading, Error, Empty} from "../../../components/SharedComponents"
 
 import {actions} from "../index"
 
+//filtering out the contents chosen by the user
+
 const {getSelectedExercises, removeExercise} = actions;
 
 class SelectedExercises extends React.Component {
@@ -46,6 +48,8 @@ class SelectedExercises extends React.Component {
         return <ExerciseItem exercise={item} removeExercise={this.removeExercise}/>
     };
 
+    // fetches the right exercise for the user
+    
     renderEmpty = () => (
         <Empty data={{message: "There are no exercises to show...", onPress: () => this.getSelectedExercises(false)}}/>
     );

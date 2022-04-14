@@ -7,6 +7,8 @@ import { Loading, Error, Empty } from "../../../components/SharedComponents"
 
 import { actions } from "../index"
 
+//sets the view for the mode page
+
 const { getExercises } = actions;
 
 class Exercises extends React.Component {

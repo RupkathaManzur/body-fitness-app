@@ -4,6 +4,8 @@ import { addFilters, getFilters } from "../actions";
 import { AsyncStorage } from "react-native";
 import * as t from "../constants";
 
+
+//viewsheet for the filter page 
 import {
   SafeAreaView,
   View,

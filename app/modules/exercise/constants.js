@@ -10,3 +10,5 @@ export const API_URL = '';
 
 export const EXERCISE_KEY = "@me-EXERCISES"
 export const FILTER_KEY = "@me-FILTERS"
+
+//this page is purely for my use. It keeps a tract of my exports and imports as I gradually made the code for the app.

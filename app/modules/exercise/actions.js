@@ -3,6 +3,8 @@ import exercises from "../../config/data";
 
 import { AsyncStorage } from "react-native";
 
+
+// stores the actions made by the user in the memory
 export function getExercises(muscle) {
   return (dispatch) => {
     return new Promise((resolve, reject) => {
