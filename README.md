@@ -166,8 +166,9 @@ This app has been tested on android devices. To run this app you will be needing
  ## BUG LIST
  :bug:
  - Choosing more than filter in the app may stop showing all the exercises that are available.
- - Some error show up out of nowhere. The root of the problem is still not found.
+ - Error show up out of nowhere. The root of the problem is still not found.
  - Images duplicate and appear twice. 
+ - The back button on your device does not take you to the previous screen rather stop the app from working. So buttons inside the app has to be used.
 
 ## TROUBLESHOOTING TIPS 
 :speech_balloon:
